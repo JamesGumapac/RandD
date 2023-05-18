@@ -1,0 +1,7 @@
+<div id="divLoading" style="margin: 0px;padding: 0px;position: fixed;right: 0px;top: 0px;width: 100%;height: 100%;background-color: rgb(255, 255, 255);z-index: 30001;opacity: 0.8;">
+<img style="position: absolute;/* color: White; */top: 5%;left: 22%;" src="https://5822933-sb1.app.netsuite.com/core/media/media.nl?id=3832&amp;c=5822933_SB1&amp;h=368cf0d76f5904efe2cb">
+<p style="position: absolute; color: White; top: 50%; left: 45%;">
+Loading, please wait while we load the records...
+
+</p>
+</div>

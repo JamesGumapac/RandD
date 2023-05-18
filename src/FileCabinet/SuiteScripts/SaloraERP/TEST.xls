@@ -1,0 +1,93 @@
+<?xml version="1.0"?>
+<ss:Workbook xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet">
+    <ss:Worksheet ss:Name="Level1">
+        <ss:Table>
+            <ss:Row>
+                <ss:Cell>
+                    <ss:Data ss:Type="String">Booth Number</ss:Data>
+                </ss:Cell>
+                <ss:Cell>
+                    <ss:Data ss:Type="String">Company</ss:Data>
+                </ss:Cell>
+                <ss:Cell>
+                    <ss:Data ss:Type="String">Address</ss:Data>
+                </ss:Cell>
+                <ss:Cell>
+                    <ss:Data ss:Type="String">City</ss:Data>
+                </ss:Cell>
+                <ss:Cell>
+                    <ss:Data ss:Type="String">State</ss:Data>
+                </ss:Cell>
+                <ss:Cell>
+                    <ss:Data ss:Type="String">Zip</ss:Data>
+                </ss:Cell>
+                <ss:Cell>
+                    <ss:Data ss:Type="String">Country</ss:Data>
+                </ss:Cell>
+                <ss:Cell>
+                    <ss:Data ss:Type="String">Telephone</ss:Data>
+                </ss:Cell>
+                <ss:Cell>
+                    <ss:Data ss:Type="String">Fax</ss:Data>
+                </ss:Cell>
+                <ss:Cell>
+                    <ss:Data ss:Type="String">Contact Name</ss:Data>
+                </ss:Cell>
+                <ss:Cell>
+                    <ss:Data ss:Type="String">Email</ss:Data>
+                </ss:Cell>
+                <ss:Cell>
+                    <ss:Data ss:Type="String">Booth Length</ss:Data>
+                </ss:Cell>
+                <ss:Cell>
+                    <ss:Data ss:Type="String">Booth Width</ss:Data>
+                </ss:Cell>
+            </ss:Row>
+        </ss:Table>
+    </ss:Worksheet>
+    <ss:Worksheet ss:Name="Level2">
+        <ss:Table>
+            <ss:Row>
+                <ss:Cell>
+                    <ss:Data ss:Type="String">Booth Number</ss:Data>
+                </ss:Cell>
+                <ss:Cell>
+                    <ss:Data ss:Type="String">Company</ss:Data>
+                </ss:Cell>
+                <ss:Cell>
+                    <ss:Data ss:Type="String">Address</ss:Data>
+                </ss:Cell>
+                <ss:Cell>
+                    <ss:Data ss:Type="String">City</ss:Data>
+                </ss:Cell>
+                <ss:Cell>
+                    <ss:Data ss:Type="String">State</ss:Data>
+                </ss:Cell>
+                <ss:Cell>
+                    <ss:Data ss:Type="String">Zip</ss:Data>
+                </ss:Cell>
+                <ss:Cell>
+                    <ss:Data ss:Type="String">Country</ss:Data>
+                </ss:Cell>
+                <ss:Cell>
+                    <ss:Data ss:Type="String">Telephone</ss:Data>
+                </ss:Cell>
+                <ss:Cell>
+                    <ss:Data ss:Type="String">Fax</ss:Data>
+                </ss:Cell>
+                <ss:Cell>
+                    <ss:Data ss:Type="String">Contact Name</ss:Data>
+                </ss:Cell>
+                <ss:Cell>
+                    <ss:Data ss:Type="String">Email</ss:Data>
+                </ss:Cell>
+                <ss:Cell>
+                    <ss:Data ss:Type="String">Booth Length</ss:Data>
+                </ss:Cell>
+                <ss:Cell>
+                    <ss:Data ss:Type="String">Booth Width</ss:Data>
+                </ss:Cell>
+            </ss:Row>
+        </ss:Table>
+    </ss:Worksheet>
+</ss:Workbook>

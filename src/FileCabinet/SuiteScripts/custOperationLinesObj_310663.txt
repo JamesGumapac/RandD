@@ -1,0 +1,1 @@
+[{"woId":"310663","sequence":1100,"name":"8B-FINAL INSPECT","projected":"9/1/2022 05:35 pm","setupqfactor":2.5,"runqfactor":120,"minstoadd":122.5,"enddate":"9/1/2022 05:35 pm"},{"woId":"310663","sequence":1110,"name":"FP-SHIPPING/PACKAGING","projected":"9/1/2022 05:40 pm","setupqfactor":5,"runqfactor":0,"minstoadd":5,"startdate":"9/1/2022 05:35 pm"}]
